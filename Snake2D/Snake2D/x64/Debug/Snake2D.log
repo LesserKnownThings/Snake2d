@@ -1,0 +1,7 @@
+﻿  Engine.cpp
+C:\Users\ursum\source\repos\Snake2D\Snake2D\Engine.cpp(154,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\ursum\source\repos\Snake2D\Snake2D\Engine.cpp(154,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameGrid.cpp
+  Snake.cpp
+  Generating Code...
+  Snake2D.vcxproj -> C:\Users\ursum\source\repos\Snake2D\x64\Debug\Snake2D.exe
